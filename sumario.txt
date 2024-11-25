@@ -1,0 +1,50 @@
+Seção 1 - Boas-vindas
+    1.01 - Boas-vindas. O que vamos aprender no curso de IA para Programação com Python?
+    1.02 - Com quem você aprenderá?
+
+
+Seção 2 - Como fazer um CHATBOT com a API do GEMINI
+----------------------------------------------------------------------------------------------------------
+    O que vamos aprender?
+    Compreender os conceitos fundamentais de IA Generativa: o que é, do que é capaz e porque é relevante
+    Realizar o cadastro do Gemini de forma a obter uma chave de API de zero
+    Usar a API do Gemini pra fazer um Hello, world!
+    Utilizar a API do Gemini para, a partir de imagens e textos, gerar texto
+    Utilizar a API do Gemini para fazer um Chatbot
+    Utilizar o Gradio para criar uma interface de Chatbot
+    Utilizar a API do Gemini para chamar funções de outras partes da aplicação
+    Utilizar a API do Gemini com envio de configurações avançadas
+    Utilizar a API do Gemini para, a partir de arquivos de áudio, gerar o texto correspondente
+    Utilizar a API do Gemini para criar funcionalidades em aplicações já existentes
+----------------------------------------------------------------------------------------------------------
+    2.01 - Introdução da seção
+    2.02 - Quer criar seu próprio ChatGPT?
+    2.03 - Como obter uma chave de API de graça
+    2.04 - Como criar funcionalidades em minutos usando o Gemini
+    2.05 - Como fazer, do zero, um Chatbot com interface gráfica
+    2.06 - Adicionando Suporte a Arquivos no Seu Chatbot
+    2.07 - Projeto: Chatbot Analisador de Sentimentos 🎭
+    2.08 - Solução do Projeto Chatbot Analisador de Sentimentos
+    2.09 - Usando o Gemini para chamar funções
+    2.10 - Criando uma funcionalidade onde a IA toma as decisões da sua aplicação
+    2.11 - Fazendo Deploy da sua Aplicação
+    2.12 - Exercícios - para praticar
+    2.13 - Projeto: Assistente Virtual para Atendimento ao Cliente 🛍️
+    2.14 - Solução do Projeto Assistente Virtual para Atendimento ao Cliente 🛍️
+    2.15 - Para não esquecer mais
+    2.16 - Referências e Recursos Adicionais 
+
+
+Seção 3 - Construa com IA em uma interface gráfica usando o Langflow
+    3.01 - Introdução da seção
+    3.02 - Montando aplicações de IA arrastando componentes
+    3.03 - Fazendo Deploy do seu Langflow
+    3.04 - Adicionando memória ao seu Chatbot
+    3.05 - Adicionando dados de múltiplas fontes à sua aplicação de IA
+    3.06 - Desenvolvendo funcionalidades que vão além do Chatbot
+    3.07 - Exercícios - para praticar
+    3.08 - Projeto: Sistema de atendimento inteligente para um e-commerce
+    3.09 - Solução do Projeto Sistema de atendimento inteligente para um e-commerce
+    3.10 - Para não esquecer mais
+    3.11 - Referências e Recursos Adicionais
+    3.12 - Você concluiu o curso, parabéns! 
